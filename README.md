@@ -4,6 +4,6 @@
 </p>
 
 <p align="center">
-  <b>(a)</b> Graph Unlearning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>(b)</b> Class Imbalance
+  <b>(a)</b> Imaginary time evolution to the ground state 
+  <b>(b)</b> Imaginary time evolution to the Excited-state
 </p>
