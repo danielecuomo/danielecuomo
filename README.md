@@ -4,6 +4,6 @@
 </p>
 
 <p align="center">
-  <b>(a)</b> Imaginary time evolution to the ground state 
-  <b>(b)</b> Imaginary time evolution to the Excited-state
+  <b>-</b> ITE to the ground state 
+  <b>-</b> ITE to the Excited-state
 </p>
