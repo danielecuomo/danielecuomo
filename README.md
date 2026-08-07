@@ -4,6 +4,9 @@
 <a href="https://github.com/qiskit-advocate/qamp-2025/issues/5">
   <img src="https://img.shields.io/badge/Qiskit-Mentorship-6929C4" alt="Qiskit">
 </a>
+<a href="https://qisk.it/e">
+  <img src="https://qisk.it/e-0747c243" alt="Qiskit Ecosystem">
+</a>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f941d69b-26e8-4fc3-8688-a06b39ce46ed" width="350" alt="Description">
